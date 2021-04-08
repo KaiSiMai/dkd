@@ -1,6 +1,4 @@
 
-
-
 # 获取cookie
 安装多看点刷金币，使用HttpCanary等抓包工具，打开软件后进入我的页面
 搜索user/index地址，页面中抓取cookie,参数类似
